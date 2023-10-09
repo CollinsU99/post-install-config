@@ -184,7 +184,136 @@ Make sure that "Require registration and login to create tickets" is unchecked, 
 
 Next, we will configure Agents (helpdesk support specialists).
 
-Click the "Agents" tab and click "Add New Agent"
+Click the "Agents" tab and click "Add New Agent".
+
+<p align="center">
+<img src="https://i.imgur.com/89kf43w.png" alt="osTicket logo"/>
+</p>
+
+Create Jane Doe's account as shown in the image above, and click "Set Password".
+
+<p align="center">
+<img src="https://i.imgur.com/UAV9T8o.png" alt="osTicket logo"/>
+</p>
+
+Uncheck "Send the agent a password reset email", use "Password1" as Jane Does's password, and uncheck "Require password change at next login" (I mistakenly checked it in the image above). Click "Set"
+
+<p align="center">
+<img src="https://i.imgur.com/YfqDAwU.png" alt="osTicket logo"/>
+</p>
+
+Click the "Access" tab, and select "System Administrators" for Departments and "Supreme Admins" for Role. Click the "Teams" tab
+
+<p align="center">
+<img src="https://i.imgur.com/V7VDWwb.png" alt="osTicket logo"/>
+</p>
+
+In the Teams section, select "Level II Support" team, and click the "Create" button
+
+<p align="center">
+<img src="https://i.imgur.com/doDJYHW.png" alt="osTicket logo"/>
+</p>
+
+Let's add John Wood as an agent. Click "Agents" > "Add New Agent".
+
+<p align="center">
+<img src="hhttps://i.imgur.com/7U8XPyp.png" alt="osTicket logo"/>
+</p>
+
+Fill in his information as shown in the image above and click "Set Password".
+
+<p align="center">
+<img src="https://i.imgur.com/UAV9T8o.png" alt="osTicket logo"/>
+</p>
+
+Uncheck "Send the agent a password reset email", use "Password1" as Jane Does's password, uncheck "Require password change at next login", and click "Set".
+
+<p align="center">
+<img src="https://i.imgur.com/1gqn2FV.png" alt="osTicket logo"/>
+</p>
+
+Click the "Access" tab, select "Support" for Departments, "View only" for Role, "Support" for Extended Access and click the "Create" tab
+
+<p align="center">
+<img src="https://i.imgur.com/3GnKY9V.png" alt="osTicket logo"/>
+</p>
+
+Next, we will configure users (customers).
+
+Click on the "Agent Panel" tab at the top right of the page.
+
+<p align="center">
+<img src="https://i.imgur.com/hu2Iojo.png" alt="osTicket logo"/>
+</p>
+
+Click "Users" tab.
+
+<p align="center">
+<img src="https://i.imgur.com/RS0sGqn.png" alt="osTicket logo"/>
+</p>
+
+Click "Add User".
+
+<p align="center">
+<img src="https://i.imgur.com/2ouPdxU.png" alt="osTicket logo"/>
+</p>
+
+Let's add Karen Mil as a user. Fill in Karen's informations as shown in the image above, and click "Add User" button
+
+<p align="center">
+<img src="https://i.imgur.com/LSAhfxf.png" alt="osTicket logo"/>
+</p>
+
+Click "Users".
+
+<p align="center">
+<img src="https://i.imgur.com/uv9FExV.png" alt="osTicket logo"/>
+</p>
+
+Click "Add User".
+
+<p align="center">
+<img src="https://i.imgur.com/msxVoZf.png" alt="osTicket logo"/>
+</p>
+
+Let's add Ken Dei as a user. Fill in Ken's informations as shown in the image above, and click "Add User" button
+
+<p align="center">
+<img src="https://i.imgur.com/eZ0llEF.png" alt="osTicket logo"/>
+</p>
+
+Next, we will configure SLAs
+
+NOTE: SLAs (Service Level Agreement) are used to define the amount of time that it should take to respond to and resolve tickets.
+
+Click the "Admin Panel" tab at the top right of the page.
+
+<p align="center">
+<img src="https://i.imgur.com/Mdd5RmN.png" alt="osTicket logo"/>
+</p>
+
+Move the cursor to the "Manage" tab and click "SLA". We will go ahead and create three SLAs
+
+<p align="center">
+<img src="https://i.imgur.com/Mdd5RmN.png" alt="osTicket logo"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
