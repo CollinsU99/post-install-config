@@ -15,7 +15,7 @@ This tutorial provides a step-by-step guide to configuring the open-source help 
 
 - Windows 10 Pro (22H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>High-Level Steps</h2>
 
 - Configure Roles
 - Configure Departments
