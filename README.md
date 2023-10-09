@@ -292,11 +292,48 @@ Click the "Admin Panel" tab at the top right of the page.
 <img src="https://i.imgur.com/Mdd5RmN.png" alt="osTicket logo"/>
 </p>
 
-Move the cursor to the "Manage" tab and click "SLA". We will go ahead and create three SLAs
+Move the cursor to the "Manage" tab and click "SLA". We will go ahead and create three SLAs.
 
 <p align="center">
-<img src="https://i.imgur.com/Mdd5RmN.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/y0EHfqB.png" alt="osTicket logo"/>
 </p>
+
+Click "Add New SLA Plan".
+
+<p align="center">
+<img src="https://i.imgur.com/wXTIauI.png" alt="osTicket logo"/>
+</p>
+
+We will name our first SLA "SEV-A", with 1 hour grace period, select "24/7" for Schedule, and click "Add Plan".
+
+<p align="center">
+<img src="https://i.imgur.com/3S5v8eK.png" alt="osTicket logo"/>
+</p>
+
+Let's add our second SLA plan. Click "Add New SLA Plan".
+
+Name it "SEV-B", with 4 hour grace period, select "24/7" for Schedule, and click "Add Plan".
+
+<p align="center">
+<img src="https://i.imgur.com/7cgiq13.png" alt="osTicket logo"/>
+</p>
+
+Let's add our third SLA plan. Click "Add New SLA Plan".
+
+Name it "SEV-C", with 8 hour grace period, select "Monday - Friday" for Schedule, and click "Add Plan".
+
+![2023-10-09 00_18_34-20 125 139 181 - Remote Desktop Connection](https://github.com/CollinsU99/post-install-config/assets/124742607/6b3be3df-8c08-41ee-9655-1f7f665160e7)
+
+Next, we will configure help topics. 
+
+Click "Manage" > "Help Topics"
+
+
+
+
+
+
+
 
 
 
