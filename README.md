@@ -326,30 +326,27 @@ Name it "SEV-C", with 8 hour grace period, select "Monday - Friday" for Schedule
 
 Next, we will configure help topics. 
 
-Click "Manage" > "Help Topics"
+Click "Manage" > "Help Topics".
 
+![2023-10-09 00_28_46-20 125 139 181 - Remote Desktop Connection](https://github.com/CollinsU99/post-install-config/assets/124742607/c6250efd-490c-4146-8349-b0f759372427)
 
+Click "Add New Help Topic".
 
+![2023-10-09 00_30_33-20 125 139 181 - Remote Desktop Connection](https://github.com/CollinsU99/post-install-config/assets/124742607/5e95fde5-7925-477b-8d33-3de070e8373f)
 
+Name it "Business Critical Outage" and click "Add Topic".
 
+![2023-10-09 00_34_57-20 125 139 181 - Remote Desktop Connection](https://github.com/CollinsU99/post-install-config/assets/124742607/29b9fe35-690a-483e-b8cf-3da85d0a42c2)
 
+Add another one, name it "Personal Computer Issues" and click "Add Topic".
 
+![2023-10-09 00_37_20-20 125 139 181 - Remote Desktop Connection](https://github.com/CollinsU99/post-install-config/assets/124742607/183c7be0-2c59-41fd-aa7c-c1217f53eb92)
 
+Let's add "Equipment Request". Click "Add Topic".
 
+![2023-10-09 00_39_57-20 125 139 181 - Remote Desktop Connection](https://github.com/CollinsU99/post-install-config/assets/124742607/bd4ca74b-7301-4e3e-9c64-96d6f06fc254)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Let's add "Password Reset". Click "Add Topic".
 
 
 
