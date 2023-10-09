@@ -76,7 +76,7 @@ We will create a role called "Supreme Admin".
 
 NOTE: Roles in osTicket are used to define the permissions and capabilities that users have within the system.
 
-In AdminPanel, click "Agents", 
+In Admin Panel, click "Agents", 
 
 <p align="center">
 <img src="https://i.imgur.com/7fEJhIl.png" alt="osTicket logo"/>
