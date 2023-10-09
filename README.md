@@ -217,7 +217,7 @@ In the Teams section, select "Level II Support" team, and click the "Create" but
 Let's add John Wood as an agent. Click "Agents" > "Add New Agent".
 
 <p align="center">
-<img src="hhttps://i.imgur.com/7U8XPyp.png" height="80%" width="80%" alt="img"/>
+<img src="https://i.imgur.com/7U8XPyp.png" height="80%" width="80%" alt="img"/>
 </p>
 
 Fill in his information as shown in the image above and click "Set Password".
